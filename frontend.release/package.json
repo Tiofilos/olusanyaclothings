@@ -3,7 +3,7 @@
   "description": "The Victoria Hall WebApp",
   "version": "0.1.0",
   "private": true,
-  "author": "Deboma on Fiverr",
+  "author": "Theophilus Awoyele",
   "license": "SEE LICENSE IN <LICENSE>",
   "dependencies": {
     "@hookform/resolvers": "^2.8.8",
